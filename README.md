@@ -1,4 +1,4 @@
-## 📢 Multi-Modal Chatbot (Text, Voice, and RAG)
+## 📢 Conversational AI (Text, Voice, and RAG)
 
 An intelligent, multi-input chatbot that supports both **text** and **voice** inputs, powered by **Groq's LLM**, **LangChain Retrieval-Augmented Generation (RAG)**, and **Gradio UI**. It also supports **vector-based document retrieval** from uploaded `.txt` files using **HuggingFace Embeddings**.
 
@@ -106,5 +106,12 @@ The Gradio interface will open in your browser (local only).
 - [Groq](https://groq.com/)
 - [Gradio](https://gradio.app/)
 - [HuggingFace](https://huggingface.co/)
+
+---
+## 📸 Example Output
+
+Here is an example of the output you can expect from the API:
+
+![Output Example](images/output-example.png)
 
 ---
