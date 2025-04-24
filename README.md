@@ -112,6 +112,6 @@ The Gradio interface will open in your browser (local only).
 
 Here is an example of the output you can expect from the API:
 
-![Output Example](updated_policy_chatbot.py)
+![Output Example](Voice_Chatbot.png)
 
 ---
